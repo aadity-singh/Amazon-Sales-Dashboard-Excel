@@ -69,7 +69,7 @@ The dashboard uncovers critical business insights including a
 ## 📸 Dashboard Preview
 
 ### KPIs & Charts
-![KPIs and Charts](Amazon_Sales_Dashboard_KPIs_Charts.png)
+https://github.com/aadity-singh/Amazon-Sales-Dashboard-Excel/blob/main/Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_KPIs_Charts.png
 
 ### Insights & Table
 ![Insights](Amazon_Sales_Dashboard_Insights_Table.png)
