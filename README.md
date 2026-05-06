@@ -1,6 +1,6 @@
 # 📊 Amazon Sales Dashboard — Excel (2019–2024)
 
-![Dashboard Preview](Amazon_Sales_Dashboard_KPIs_Charts.png)
+https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Dashboard-Excel/main/Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_KPIs_Charts.png
 
 ## 📌 Project Overview
 An interactive sales dashboard built in Microsoft Excel analyzing 
