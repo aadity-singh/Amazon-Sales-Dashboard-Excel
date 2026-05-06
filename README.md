@@ -102,17 +102,20 @@ This dashboard provides a centralized, interactive view of sales data, enabling 
 </table>
 
 ---
-
 <h2 align="center">👤 About Me</h2>
 
 <p align="center">
-  <b>Aadity Singh</b><br>
-  Data Analyst | Excel Dashboard Specialist | Gen AI Enthusiast<br><br>
-  
+  <b style="font-size:18px;">Aadity Singh</b><br>
+  <span>Data Analyst | Excel Dashboard Specialist | Gen AI Enthusiast</span>
+</p>
+
+<p align="center">
   I build <b>interactive dashboards that turn raw data into actionable business insights</b>.<br>
-  I also leverage <b>Generative AI</b> to automate insights, enhance analysis, and improve reporting efficiency.<br><br>
-  
-  📧 aaditysingh612@gmail.com
+  I also leverage <b>Generative AI</b> to automate insights, enhance analysis, and improve reporting efficiency.
+</p>
+
+<p align="center">
+  📧 <b>aaditysingh612@gmail.com</b>
 </p>
 
 ---
