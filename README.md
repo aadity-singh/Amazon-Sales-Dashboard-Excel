@@ -107,7 +107,11 @@ This dashboard provides a centralized, interactive view of sales data, enabling 
 
 <p align="center">
   <b>Aadity Singh</b><br>
-  Data Analyst | Excel Dashboard Specialist<br>
+  Data Analyst | Excel Dashboard Specialist | Gen AI Enthusiast<br><br>
+
+   I specialize in building <b>interactive dashboards with real business insights</b>.<br>
+  I also leverage <b>Generative AI</b> to enhance data analysis, automate insights, and improve reporting efficiency.<br><br>
+  
   📧 aaditysingh612@gmail.com
 </p>
 
