@@ -4,6 +4,10 @@
 
 ![Amazon Dashboard](Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_KPIs_Charts.png)
 
+## 💡 Key Insights
+
+![Insights](Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_Insights_Table.png)
+
 ## 📌 Project Overview
 An interactive sales dashboard built in Microsoft Excel analyzing 
 ₹32M in Amazon sales transactions across 2019–2024. 
@@ -65,15 +69,6 @@ The dashboard uncovers critical business insights including a
 | Regions | 5 (Asia, Australia, Europe, North America, South America) |
 | Categories | 7 (Electronics, Sports, Beauty, Home & Kitchen, Toys, Clothing, Books) |
 | Products | 35+ |
-
----
-
-## 📸 Dashboard Preview
-
-### KPIs & Charts
-![Amazon Dashboard](Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_KPIs_Charts.png)
-### Insights & Table
-![Insights](Amazon_Sales_Dashboard_Insights_Table.png)
 
 ---
 
